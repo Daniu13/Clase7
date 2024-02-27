@@ -140,3 +140,4 @@ class Paciente(Persona):
     def verServicio(self, servicio):
         return self.__servicio            
     
+#Bearbeitung XD
